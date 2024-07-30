@@ -1,6 +1,13 @@
 # TinDog Project
 
-A replica of Tinder but for our Dogs. 
+It's a replica of Tinder but for our Dogs. 
+Click here for the live Website: https://nishanta9.github.io/TinDogProj/
+
+This project is a part of the course exercise - The Complete 2024 Web Development Bootcamp on Udemy by Dr. Angela Yu. But now developed by Nishant Acharekar.
+
+Here is some of the steps if you are building this project on your own.
+
+===================================================================================================================================
 
 HINT: To fiure out which Bootstrap components/snippets are used. Refer to the PDF below:
 https://github.com/appbrewery/tindog/blob/main/Bootstrap-snippets.pdf
